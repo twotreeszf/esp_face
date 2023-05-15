@@ -1,0 +1,16 @@
+{
+    "C_Cpp.intelliSenseEngine": "Tag Parser",
+    "idf.adapterTargetName": "esp32s3",
+    "idf.customExtraPaths": "/Users/twotrees/Documents/src/esp32/env/tools/xtensa-esp-elf-gdb/11.2_20220823/xtensa-esp-elf-gdb/bin:/Users/twotrees/Documents/src/esp32/env/tools/riscv32-esp-elf-gdb/11.2_20220823/riscv32-esp-elf-gdb/bin:/Users/twotrees/Documents/src/esp32/env/tools/xtensa-esp32-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32-elf/bin:/Users/twotrees/Documents/src/esp32/env/tools/xtensa-esp32s2-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32s2-elf/bin:/Users/twotrees/Documents/src/esp32/env/tools/xtensa-esp32s3-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32s3-elf/bin:/Users/twotrees/Documents/src/esp32/env/tools/riscv32-esp-elf/esp-2021r2-patch5-8.4.0/riscv32-esp-elf/bin:/Users/twotrees/Documents/src/esp32/env/tools/esp32ulp-elf/2.35_20220830/esp32ulp-elf/bin:/Users/twotrees/Documents/src/esp32/env/tools/openocd-esp32/v0.11.0-esp32-20221026/openocd-esp32/bin:/Users/twotrees/Documents/src/esp32/env/tools/ninja/1.10.2",
+    "idf.customExtraVars": {
+        "OPENOCD_SCRIPTS": "/Users/twotrees/Documents/src/esp32/env/tools/openocd-esp32/v0.11.0-esp32-20221026/openocd-esp32/share/openocd/scripts"
+    },
+    "idf.espIdfPath": "/Users/twotrees/Documents/src/esp32/env/esp-idf",
+    "idf.openOcdConfigs": [
+        "board/esp32s3-bridge.cfg"
+    ],
+    "idf.port": "/dev/cu.usbmodem14401",
+    "idf.pythonBinPath": "/Users/twotrees/Documents/src/esp32/env/python_env/idf4.4_py3.11_env/bin/python",
+    "idf.toolsPath": "/Users/twotrees/Documents/src/esp32/env",
+    "idf.flashType": "UART"
+}
